@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 
 <!-- 배우고 있는 중 -->
 <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/c sharp-239120?style=round-square&logo=csharp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C Sharp-239120?style=round-square&logo=csharp&logoColor=white"/></a>
 
 <!-- 연락 -->
+<a href="mailto:iluvidus@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-round&logo=gmail&logoColor=white"/></a>
