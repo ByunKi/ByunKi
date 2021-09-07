@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <!-- 기술 -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=round-square&logo=c&logoColor=white&textcolor=white"/></a>
+<img src="https://img.shields.io/badge/C-00599C?style=round-square&logo=c&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=round-square&logo=cplusplus&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=round-square&logo=Unity&logoColor=white"/></a>
 
