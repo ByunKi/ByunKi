@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=adviate)](https://solved.ac/adviate)
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=adviate">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kryowen&&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kryowen&&show_icons=true&theme=onedark)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kryowen&&show_icons=true&theme=onedark)
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=krowen&&show_icons=true&theme=onedark" height="165">
 
 
