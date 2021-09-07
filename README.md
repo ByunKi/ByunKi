@@ -5,6 +5,8 @@
 Here are some ideas to get you started:
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=adviate)](https://solved.ac/adviate)
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=adviate">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kryowen&&show_icons=true&theme=radical)]
 
 - 🔭 I’m currently working on ...
@@ -18,7 +20,6 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kryowen&&show_icons=true&theme=radical)
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=adviate">
 
 
 
