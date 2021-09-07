@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kryowen&&show_icons=true&theme=onedark)
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=kryowen&&show_icons=true&theme=onedark" height="165">
 
-- https://img.shields.io/badge/-[기술이름]-[컬러코드]?style=flat&logo=[아이콘이름]
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -25,7 +24,6 @@ Here are some ideas to get you started:
 -->
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkryowen&count_bg=%23FF7F00&title_bg=%23002643&icon=pinboard.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)
-    https://img.shields.io/badge/-Python-000000?style=flat&logo=Python
 
 
 
