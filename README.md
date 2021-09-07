@@ -48,6 +48,9 @@ Here are some ideas to get you started:
 <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-round&logo=discord&logoColor=white"/></a>
 <a href="https://github.com/kryowen" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-round&logo=github&logoColor=white"/></a>
   
+<p align=center></p>
+<p align=center></p>
+
  <!--방문자 수-->
 <h3 align="center"> Vistors </h3>
 <p align=center>
@@ -55,7 +58,9 @@ Here are some ideas to get you started:
   
 <p align=center></p>
 <p align=center></p>
+<p align=center></p>
+<p align=center></p>
 
 <!--프로필 카드-->
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=kryowen&&show_icons=true&theme=onedark" height="165">
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=adviate" height="165">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=kryowen&&show_icons=true&theme=onedark" height="180">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=adviate" height="180">
