@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&width=1500&height=300&section=header&text=kryowen%20text&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&width=3000&height=300&section=header&text=kryowen%20text&fontSize=70" />
 
 
 <!--방문자 수-->
