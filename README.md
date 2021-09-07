@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/kryowen" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-round&logo=github&logoColor=white"/></a>
   
 <!--프로필 카드-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kryowen&&show_icons=true&theme=onedark)
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=kryowen&&show_icons=true&theme=onedark" height="150">
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=adviate">
   
 <!--방문자 수-->
