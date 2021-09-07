@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 ![Python Badge](https://img.shields.io/badge/-Python-002643?style=round&logo=Python)
 ![C Badge](https://img.shields.io/badge/-C-002643?style=round&logo=C)
 ![CPP Badge](https://img.shields.io/badge/-C++-002643?style=round&logo=c++)
-
+![Unity Badge](https://img.shields.io/badge/-Unity-002643?style=round&logo=unity)
 
 
