@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkryowen&count_bg=%23FF7F00&title_bg=%23002643&icon=pinboard.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)
 
 ![Python Badge](https://img.shields.io/badge/-Python-002643?style=round&logo=Python)
-![C Badge](https://img.shields.io/badge/-C-002643?style=flat&logo=C)
-![C++ Badge](https://img.shields.io/badge/-C++-002643?style=flat&logo=c++)
+![C Badge](https://img.shields.io/badge/-C-002643?style=round&logo=C)
+![C++ Badge](https://img.shields.io/badge/-C++-002643?style=round&logo=cpp)
 
 
 
