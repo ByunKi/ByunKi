@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Index -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=kryowen&desc=HoneyBee&descAlign=85&fontSize=90&fontAlign=70" />
+<img align='center' src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=kryowen&desc=HoneyBee&descAlign=85&fontSize=90&fontAlign=70" />
 
 <h3 align="center"> Tech Stack </h3>
 
