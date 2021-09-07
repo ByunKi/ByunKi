@@ -32,15 +32,17 @@ Here are some ideas to get you started:
 
 <!-- 기술 -->
 <p align=center>
-<img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-00599C?style=round-square&logo=c&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=round-square&logo=cplusplus&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=round-square&logo=Unity&logoColor=white"/></a>
 
+<p align="center"><i> Techs I learning </i></p>
 <!-- 배우고 있는 중 -->
 <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C Sharp-239120?style=round-square&logo=csharp&logoColor=white"/></a>
 
+<p align="center"><i> OS, I use </i></p>
 <!-- 사용하는 운영체제 -->
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=round-square&logo=ubuntu&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=round-square&logo=windows&logoColor=white"/></a>
