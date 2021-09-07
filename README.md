@@ -1,4 +1,4 @@
-### Hi there 👋
+<h3 p=align> Hi there 👋
 
 <!--
 **kryowen/kryowen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Index -->
-<img align='center' src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=kryowen&desc=HoneyBee&descAlign=85&fontSize=90&fontAlign=70" />
+<img align=center src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=kryowen&desc=HoneyBee&descAlign=85&fontSize=90&fontAlign=70" />
 
 <h3 align="center"> Tech Stack </h3>
 
