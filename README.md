@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ![Python Badge](https://img.shields.io/badge/-Python-002643?style=round&logo=Python)
 ![C Badge](https://img.shields.io/badge/-C-002643?style=flat&logo=C)
-
+![C++ Badge](https://img.shields.io/badge/-C++-002643?style=flat&logo=C++)
 
 
 
