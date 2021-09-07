@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C Sharp-239120?style=round-square&logo=csharp&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=round-square&logo=ubuntu&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Windows10-239120?style=round-square&logo=windows&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Windows10-0078D6?style=round-square&logo=windows&logoColor=white"/></a>
 <!-- 연락 -->
 <a href="mailto:iluvidus@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-round&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/kryowen" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-round&logo=github&logoColor=white"/></a>
