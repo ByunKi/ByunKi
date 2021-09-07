@@ -40,4 +40,3 @@ Here are some ideas to get you started:
 <!-- 연락 -->
 <a href="mailto:iluvidus@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-round&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/kryowen" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-round&logo=github&logoColor=white"/></a>
-<a href="https://github.com/kryowen" target="_blank"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-round&logo=kakaotalk&logoColor=white"/></a>
