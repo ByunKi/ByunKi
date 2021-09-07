@@ -23,13 +23,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- Index -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=kryowen&desc=HoneyBee&descAlign=85&fontSize=90&fontAlign=70" />
 
+<h3 align="center"> Tech Stack </h3>
+
+<p align="center"> Techs that I've used at least once </p>
 
 <!--방문자 수-->
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkryowen&count_bg=%23FF7F00&title_bg=%23002643&icon=pinboard.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)
 
 <!-- 기술 -->
+<p align=center>
 <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-00599C?style=round-square&logo=c&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=round-square&logo=cplusplus&logoColor=white"/></a>
