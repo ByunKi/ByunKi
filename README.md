@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![adviate](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=adviate)](https://solved.ac/adviate)
 
