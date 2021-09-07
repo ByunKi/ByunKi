@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=adviate)](https://solved.ac/adviate)
+
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=adviate">
 
