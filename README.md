@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <!-- 사용하는 운영체제 -->
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=round-square&logo=ubuntu&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Windows10-0078D6?style=round-square&logo=windows&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=round-square&logo=windows&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=round-square&logo=android&logoColor=white"/></a>
 
 <!-- 연락 -->
