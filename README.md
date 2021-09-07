@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 <!--다룰 수 있는 언어-->
 <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=round-square&logo=c&logoColor=white&textColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-00599C?style=round-square&logo=cplusplus&logoColor=white&textColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=round-square&logo=cplusplus&logoColor=white"/></a>
 
