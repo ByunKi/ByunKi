@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 -기술배지
 ![Python Badge](https://img.shields.io/badge/-Python-000000?style=round&logo=Python)
-![C Badge](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
+![C Badge](https://img.shields.io/badge/-C-C++-000000?style=flat&logo=C,C++)
 
 
 
