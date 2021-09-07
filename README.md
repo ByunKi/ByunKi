@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=round-square&logo=c&logoColor=white&textColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=round-square&logo=cplusplus&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Unity-00000?style=round-square&logo=Unity&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Unity-000000?style=round-square&logo=Unity&logoColor=white"/></a>
