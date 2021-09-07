@@ -1,4 +1,5 @@
 <h3 align=center> Hi there 👋 I'm kryowen 🙋‍♂️ </h3>
+<p align=center><i> NTMY </i></p>
 
 <!--
 **kryowen/kryowen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,12 +27,8 @@ Here are some ideas to get you started:
 <!-- Index -->
 <img align='center' src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=kryowen&desc=HoneyBee&descAlign=85&fontSize=90&fontAlign=70" />
 
-<h3 align="center"> Tech Stack </h3>
-
-<p align="center"> Techs that I've used at least once </p>
-
-<!--방문자 수-->
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkryowen&count_bg=%23FF7F00&title_bg=%23002643&icon=pinboard.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)
+<h3 align="center"> 💻 Stacks 💻 </h3>
+<p align="center"><i> Techs I can handle </i></p>
 
 <!-- 기술 -->
 <p align=center>
@@ -53,3 +50,7 @@ Here are some ideas to get you started:
 <a href="mailto:iluvidus@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-round&logo=gmail&logoColor=white"/></a>
 <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-round&logo=discord&logoColor=white"/></a>
 <a href="https://github.com/kryowen" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-round&logo=github&logoColor=white"/></a>
+
+<!--방문자 수-->
+<p align='center'>
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkryowen&count_bg=%23FF7F00&title_bg=%23002643&icon=pinboard.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)
