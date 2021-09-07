@@ -26,5 +26,6 @@ Here are some ideas to get you started:
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkryowen&count_bg=%23FF7F00&title_bg=%23002643&icon=pinboard.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=python&logoColor=white"/></a>
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=python&logoColor=white"/></a>
 
