@@ -62,5 +62,5 @@ Here are some ideas to get you started:
 <p align=center></p>
 
 <!--프로필 카드-->
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=kryowen&&show_icons=true&theme=onedark" height="180">
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=adviate" height="180">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=kryowen&&show_icons=true&theme=onedark" height="150">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=adviate" height="150">
